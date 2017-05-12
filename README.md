@@ -1,21 +1,25 @@
-**Revision history**\
+This is an auto generated .md--version of the bylaws in `bylaws.tex` and is not
+to be considered the actual bylaws of Chalmers Software Craftsmanship Guild,
+but a rough copy of the actual bylaws for whoever does not want to download and
+compile `bylaws.tex`.
+===============================================================================
 
-[ll]{} Accepted at annual meeting & 2017-05-10
+Accepted at constitutional meeting & 2017-05-10
 
 Society
 =======
 
-[Chalmers Software Craftsmanship Guild]{} is a non-profit society which
+Chalmers Software Craftsmanship Guild is a non-profit society which
 is religiously and politically impartial.
 
-[Chalmers Software Craftsmanship Guild]{} is a society under “Chalmers
+Chalmers Software Craftsmanship Guild is a society under “Chalmers
 Studentkår”, the Chalmers Student Union, and is regulated by the bylaws
 and rules determined by Chalmers Studentkår.
 
-Vision {#sec:vision}
+Vision
 ======
 
-[Chalmers Software Craftsmanship Guild]{} exists to promote the
+Chalmers Software Craftsmanship Guild exists to promote the
 interest, knowledge and ethical application of cyber security, with a
 practical focus rooted in playing and holding Capture the flag events.
 The guild should also promote and encourage free and open source
@@ -24,7 +28,7 @@ software using a software craftsmanship approach.
 Membership
 ==========
 
-Membership in [Chalmers Software Craftsmanship Guild]{} is available to
+Membership in Chalmers Software Craftsmanship Guild is available to
 anyone, but at least 50 percent of the society’s members must be members
 or supporting members of Chalmers Student Union. The membership fee is
 decided on a fiscal yearly basis by the annual meeting.
@@ -32,16 +36,16 @@ decided on a fiscal yearly basis by the annual meeting.
 Validity
 --------
 
-After a person has expressed a wish to join [Chalmers Software
-Craftsmanship Guild]{}, they are considered a member of the society when
+After a person has expressed a wish to join Chalmers Software
+Craftsmanship Guild, they are considered a member of the society when
 they have been added to the member database. A membership is valid until
 the end of the fiscal year.
 
 Expulsion
 ---------
 
-A member who actively opposes the vision of [Chalmers Software
-Craftsmanship Guild]{} can be expelled from the society. A decision
+A member who actively opposes the vision of Chalmers Software
+Craftsmanship Guild can be expelled from the society. A decision
 regarding expulsion of a member must be made by the annual meeting with
 at least two thirds majority.
 
@@ -69,7 +73,7 @@ the 30th of June.
 Board
 -----
 
-[Chalmers Software Craftsmanship Guild]{}’s board consists of one
+Chalmers Software Craftsmanship Guild’s board consists of one
 chairman, one treasurer and between one and five members. The board is
 elected by the annual meeting, for the following fiscal year. The board
 leads the society’s activities and manages its possessions.
@@ -96,7 +100,7 @@ The board is responsible for writing a yearly report where the
 activities of the past year are presented. The board is also responsible
 for ensuring the succeeding board receives said report.
 
-Annual meeting {#sec:annualmeeting}
+Annual meeting
 --------------
 
 The society is governed by the annual meeting. Between annual meetings
@@ -108,7 +112,7 @@ end of each fiscal year.
 Any motions that are to be regarded at the meeting must be present in
 the summoning.
 
-### Agenda {#sec:agenda}
+### Agenda
 
 The annual meeting must discuss the following:
 
@@ -163,12 +167,12 @@ one member that is present at the meeting. The process of delegating
 votes requires a written approval from the person whose vote is
 delegated.
 
-### Decision making {#sec:annualdecision}
+### Decision making 
 
 All decisions at the annual meeting are made by acclamation or by simple
 majority in a vote. This is however not applicable if the meeting wishes
-to dissolve the society or change the bylaws (see \[sec:dissolve\] and
-\[sec:changingbylaws\] respectively).
+to dissolve the society or change the bylaws (see Dissolving the society and
+Changing bylaws respectively).
 
 ### Entitled attendance
 
@@ -181,7 +185,7 @@ annual meeting.
 Any personal elections shall be conducted using open voting, unless a
 closed voting is requested by any member. If there is only one person
 suggested for a particular election, the vote is made in accordance to
-\[sec:annualdecision\].
+Annual meeting -- Voting.
 
 ### Tie break
 
@@ -195,7 +199,7 @@ An extra annual meeting is summoned to on the initiative of the board or
 if at least 25 percent of all members requests so.
 
 The agenda of the extra annual meeting must discuss points 1–6
-in \[sec:agenda\]. The summoning must state the reason for calling the
+in Agenda. The summoning must state the reason for calling the
 extra annual meeting.
 
 The society’s firm
@@ -203,7 +207,7 @@ The society’s firm
 
 The society’s firm is singly signed by the chairman and the treasurer.
 
-Changing bylaws {#sec:changingbylaws}
+Changing bylaws
 ---------------
 
 These bylaws can be changed only by an annual meeting or an extra annual
@@ -215,14 +219,13 @@ supported by at least two thirds of the voters present at the meeting.
 
 ### Major changes
 
-For changes of the bylaws concerning \[sec:vision\] (),
-\[sec:changingbylaws\] () or \[sec:dissolve\] (), two consecutive annual
-meetings must support the change. In order for an extra annual meeting
-to approve said changes, it needs to be held at least one month apart
-from the ordinary annual meeting that also intends to approve the
-changes.
+For changes of the bylaws concerning Vision, Changing bylaws or Dissolving the
+society, two consecutive annual meetings must support the change. In order for
+an extra annual meeting to approve said changes, it needs to be held at least
+one month apart from the ordinary annual meeting that also intends to approve
+the changes.
 
-Dissolving the society {#sec:dissolve}
+Dissolving the society
 ======================
 
 The society may only be dissolved by two consecutive annual meetings,
@@ -236,5 +239,5 @@ Granting of assets
 
 If the society is dissolved any financial means, or possessions of the
 society, is donated to the Student Union, with the wish to be used
-towards fulfilling \[sec:vision\]  as it is stated when the dissolution
+towards fulfilling the Vision as it is stated when the dissolution
 takes effect.
