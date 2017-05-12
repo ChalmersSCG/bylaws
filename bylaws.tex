@@ -1,0 +1,293 @@
+\documentclass[a4paper]{article}
+\usepackage[utf8]{inputenc}
+
+% ==============================================================================
+% Variables:
+% ==============================================================================
+
+\newcommand{\name}{Chalmers Software Craftsmanship Guild}
+\newcommand{\shortname}{CSCG}
+
+% ==============================================================================
+% Settings:
+% ==============================================================================
+
+\usepackage[T1]{fontenc}
+\usepackage[swedish]{babel}
+\usepackage[iso,swedish]{isodate}
+\usepackage{icomma}
+\usepackage{graphicx,tabu}
+\usepackage{todonotes}
+\usepackage{changepage}
+\usepackage[hidelinks]{hyperref}
+
+\usepackage[
+    %showframe,
+    a4paper,
+    %left=2.5cm,
+    %right=2cm,
+    top=1cm,
+    bottom=2.5cm
+    ]{geometry}
+\setlength\headheight{2.5cm}
+\setlength\textheight{24cm}
+
+\parskip .5em
+\parindent 0em
+
+\usepackage{lastpage}
+\usepackage{fancyhdr}
+\pagestyle{fancy}
+
+\lhead{}%\includegraphics[height=1.5cm]{logo}}
+\rhead{\thepage\ (\pageref{LastPage})}
+\chead{{\large Bylaws\\ \name}}
+
+\renewcommand{\thesection}{§~\arabic{section}}
+
+\author{}
+\date{}
+\title{\huge Bylaws for\\
+    \huge \name}
+
+\begin{document}
+
+% ==============================================================================
+% begin: document
+% ==============================================================================
+
+\maketitle
+
+\begin{center}
+    \textbf{Revision history}\\
+    \begin{tabu}{ll}
+        Accepted at annual meeting  & 2017-05-10
+    \end{tabu}
+\end{center}
+
+
+% =========================================================================== %
+
+\section{Society}
+
+\name{} is a non-profit society which is religiously and politically impartial.
+
+\name{} is a society under ``Chalmers Studentkår'', the Chalmers Student Union,
+and is regulated by the bylaws and rules determined by Chalmers Studentkår.
+
+\section{Vision}
+\label{sec:vision}
+
+\name{} exists to promote the interest, knowledge and ethical application of
+cyber security, with a practical focus rooted in playing and holding Capture
+the flag events. The guild should also promote and encourage free and open
+source software using a software craftsmanship approach.
+
+% =========================================================================== %
+
+\section{Membership}
+
+Membership in \name{} is available to anyone, but at least 50 percent of the
+society's members must be members or supporting members of Chalmers Student
+Union. The membership fee is decided on a fiscal yearly basis by the annual
+meeting.
+
+\subsection{Validity}
+
+After a person has expressed a wish to join \name{}, they are considered
+a member of the society  when they have been added to the member database.
+A membership is valid until the end of the fiscal year.
+
+\subsection{Expulsion}
+
+A member who actively opposes the vision of \name{} can be expelled from the
+society. A decision regarding expulsion of a member must be made by the annual
+meeting with at least two thirds majority.
+
+% =========================================================================== %
+
+\section{Economy}
+
+The economy of the society is reported by the treasurer at the annual meeting,
+for the previous fiscal year.  The society's accountants review the society's
+accounts and write an audit report to be presented at the annual meeting for the
+same fiscal year.
+
+All material requested for the audit by the Student Union shall be available two
+months after the end of the fiscal year or two weeks before the audit of the
+Chalmers Student Union, which ever comes first.
+
+% =========================================================================== %
+
+\section{Organization}
+
+\subsection{Fiscal- and financial year}
+
+The society's fiscal- and financial year comprises the 1st of July until the
+30th of June.
+
+\subsection{Board}
+
+\name{}'s board consists of one chairman, one treasurer and between one and five
+members.  The board is elected by the annual meeting, for the following fiscal
+year. The board leads the society's activities and manages its possessions.
+
+\subsubsection{Responsibilities}
+
+It is the responsibility of the chairman to lead the board
+and it is the responsibility of the treasurer to manage the economy of the
+society.
+
+\subsubsection{Decision making}
+
+Any decisions made by the board shall be made with an absolute majority. In the
+case of a tie, the chairman has the deciding vote.
+
+\subsubsection{Validity of decisions}
+
+The board is deemed to have a quorum if and only if all
+members of the board have been summoned, and at least half of the board's
+members are present.
+
+\subsubsection{Yearly report}
+
+The board is responsible for writing a yearly report where the
+activities of the past year are presented. The board is also responsible for
+ensuring the succeeding board receives said report.
+
+% =========================================================================== %
+
+\subsection{Annual meeting}
+\label{sec:annualmeeting}
+
+The society is governed by the annual meeting. Between annual meetings the
+society is lead by the board. An annual meeting is to be held at the end of each
+fiscal year.
+
+\subsubsection{Motions}
+
+Any motions that are to be regarded at the meeting must be present in the
+summoning.
+
+\newpage
+\subsubsection{Agenda}
+\label{sec:agenda}
+
+The annual meeting must discuss the following:
+
+\begin{enumerate}
+    \item The opening of the meeting
+    \item Elect chairman for the meeting
+    \item Elect secretary for the meeting
+    \item Elect two adjusters whom also serve as vote counters
+    \item Approval of the agenda
+    \item Ask if the summoning of the meeting was made in accordance to the bylaws
+    \item Set the membership fee
+    \item Present the yearly report
+    \item Present the audit report
+    \item Decide if the board of the previous fiscal year is to be discharged
+    \item Treat any propositions
+    \item Treat any motions
+    \item Elect chairman for the coming year
+    \item Elect treasurer for the coming year
+    \item Elect board members for the coming year
+    \item Elect accountants for the coming year
+    \item Elect election committee for the coming year
+    \item Other questions
+\end{enumerate}
+
+\subsubsection{Validity}
+
+The annual meeting is able to make decisions if and only if a
+written summoning has been sent out via the currently most used communication
+channels to all members at least two weeks before the meeting.
+
+\subsubsection{Voting}
+
+All members of \name{} are allowed to vote at annual meetings.
+The vote is personal, but can be delegated to one member that is present at the
+meeting. The process of delegating votes requires a written approval from the
+person whose vote is delegated.
+
+\subsubsection{Decision making}
+\label{sec:annualdecision}
+
+All decisions at the annual meeting are made by acclamation or
+by simple majority in a vote. This is however not applicable if the meeting wishes to
+dissolve the society or change the bylaws (see \ref{sec:dissolve} and \ref{sec:changingbylaws} respectively).
+
+\subsubsection{Entitled attendance}
+
+The chairman, the board, the accountants and the members of
+the society are all entitled to be present and make their voices heard during
+the annual meeting.
+
+\subsubsection{Personal elections}
+
+Any personal elections shall be conducted using open voting,
+unless a closed voting is requested by any member. If there is only
+one person suggested for a particular election, the vote is made in accordance
+to \ref{sec:annualdecision}.
+
+\subsubsection{Tie break}
+
+In the case of a tie, the chairman holds the final vote
+unless in the case of a personal election where a toss is used.
+
+\subsection{Extra annual meeting}
+
+An extra annual meeting is summoned to on the initiative of the
+board or if at least 25~percent of all members requests so.
+
+The agenda of the extra annual meeting must discuss points 1--6
+in~\ref{sec:agenda}. The summoning must state the reason for calling the extra
+annual meeting.
+
+% =========================================================================== %
+
+\subsection{The society's firm}
+
+The society's firm is singly signed by the chairman and the
+treasurer.
+
+% =========================================================================== %
+
+\subsection{Changing bylaws}
+\label{sec:changingbylaws}
+
+These bylaws can be changed only by an annual meeting or an extra annual
+meeting. If the meeting intends to change the bylaws, this must have been
+clearly stated in the summoning to the meeting.
+
+In order for the bylaws to be changed, any suggested changes must be supported by
+at least two thirds of the voters present at the meeting.
+
+\subsubsection{Major changes}
+
+For changes of the bylaws concerning \ref{sec:vision} (\nameref{sec:vision}),
+\ref{sec:changingbylaws} (\nameref{sec:changingbylaws}) or \ref{sec:dissolve}
+(\nameref{sec:dissolve}), two consecutive annual meetings must support the
+change. In order for an extra annual meeting to approve said changes, it needs
+to be held at least one month apart from the ordinary annual meeting that also
+intends to approve the changes.
+
+% =========================================================================== %
+
+\section{Dissolving the society}
+\label{sec:dissolve}
+
+The society may only be dissolved by two consecutive annual meetings, which are
+held at least one month apart.  Two thirds of the present voters of said
+meetings must support the dissolution.  The matter of dissolving the society
+must be clearly stated in the summoning to the meetings.
+
+\subsection{Granting of assets}
+
+If the society is dissolved any financial means, or possessions of the society,
+is donated to the Student Union, with the wish to be used towards
+fulfilling~\ref{sec:vision}~\nameref{sec:vision} as it is stated when the
+dissolution takes effect.
+
+\end{document}
+
+
