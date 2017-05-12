@@ -2,7 +2,8 @@ This is an auto generated .md--version of the bylaws in `bylaws.tex` and is not
 to be considered the actual bylaws of Chalmers Software Craftsmanship Guild,
 but a rough copy of the actual bylaws for whoever does not want to download and
 compile `bylaws.tex`.
-===============================================================================
+
+---
 
 Accepted at constitutional meeting & 2017-05-10
 
